@@ -1,2 +1,2 @@
-# LegoRoboterGai
-My first simple arduino controlled robot.
+# Lego Robot "Gai"
+My first simple arduino controlled LEGO robot.
